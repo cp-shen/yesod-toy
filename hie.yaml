@@ -1,0 +1,16 @@
+cradle:
+  cabal:
+    - path: "src"
+      component: "lib:PROJECTNAME"
+
+    - path: "app/main.hs"
+      component: "PROJECTNAME:exe:PROJECTNAME"
+
+    - path: "app/DevelMain.hs"
+      component: "PROJECTNAME:exe:PROJECTNAME"
+
+    - path: "app/Paths_PROJECTNAME.hs"
+      component: "PROJECTNAME:exe:PROJECTNAME"
+
+    - path: "test"
+      component: "PROJECTNAME:test:PROJECTNAME-test"

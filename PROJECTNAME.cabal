@@ -28,8 +28,10 @@ library
       Handler.Common
       Handler.Home
       Handler.Profile
+      HelloWorld
       Import
       Import.NoFoundation
+      Links
       Model
       Settings
       Settings.StaticFiles
