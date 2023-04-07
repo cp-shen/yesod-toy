@@ -28,6 +28,7 @@
           (hl.addBuildTools (with haskellPackages; [
             haskell-language-server
             cabal-install
+            yesod-bin
             implicit-hie
             hlint
             hpack

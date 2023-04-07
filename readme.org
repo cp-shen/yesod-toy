@@ -1,0 +1,5 @@
+playground project for haskell yesod
+
+*** refs:
+- https://github.com/yesodweb/yesod-scaffold/tree/sqlite
+- https://www.yesodweb.com/page/quickstart
